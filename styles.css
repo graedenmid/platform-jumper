@@ -1,0 +1,21 @@
+canvas {
+  border: 2px solid black;
+  display: block;
+  margin: 0 auto;
+  background: #87ceeb; /* Sky blue background */
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: #333;
+  margin: 0;
+  padding: 20px;
+}
+
+#score {
+  color: white;
+  font-size: 24px;
+  margin-bottom: 10px;
+}
